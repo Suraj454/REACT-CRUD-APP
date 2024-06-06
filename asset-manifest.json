@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REACT-CRUD-APP/static/css/main.19408544.css",
+    "main.js": "/REACT-CRUD-APP/static/js/main.e8585e18.js",
+    "index.html": "/REACT-CRUD-APP/index.html",
+    "main.19408544.css.map": "/REACT-CRUD-APP/static/css/main.19408544.css.map",
+    "main.e8585e18.js.map": "/REACT-CRUD-APP/static/js/main.e8585e18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19408544.css",
+    "static/js/main.e8585e18.js"
+  ]
+}
